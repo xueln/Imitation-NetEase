@@ -14,5 +14,7 @@ node express mongodb socket.io
 即可
 
 # 项目演示图
+查看完整演示图请点击
+<http://i2.bvimg.com/620442/124fabe121a073c3.gif>
 
 ![Markdown](http://i2.bvimg.com/620442/124fabe121a073c3.gif)
