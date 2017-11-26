@@ -1,0 +1,32 @@
+{
+    "code": "200",
+    "data": {
+        "environment": "online",
+        "nickname": null,
+        "username": null,
+        "userid": "0",
+        "cateList": null,
+        "giftSwitch": false,
+        "noticeList": null,
+        "hdrkMouseoverVO": {
+            "id": 1077001,
+            "title": "感恩节",
+            "huodongUrl": "http://you.163.com/act/pub/NWuljSeCXq.html",
+            "huodongPicUrl": "http://yanxuan.nosdn.127.net/43e53d9d9fd8019796bbccf6ae2898e9.gif",
+            "startTime": 1510761600000,
+            "endTime": 1511452799000
+        },
+        "searchDefaultWordVO": null,
+        "defaultWordsVos": null,
+        "membershipOn": true,
+        "memberLevel": 0,
+        "topLogo": {
+            "activityUrl": "http://you.163.com/act/pub/ICudP6XejY.html",
+            "activityPicUrl": "http://yanxuan.nosdn.127.net/08186e69d43fefeba72a91eecd3c4556.gif",
+            "switchOn": false
+        },
+        "host": "http://you.163.com",
+        "zxjCategory": null,
+        "topicList": null
+    }
+}
